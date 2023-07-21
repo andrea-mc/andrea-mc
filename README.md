@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @andrea-mc
-- 👀 I’m interested in black holes in AGN disks
-- 🌱 I’m currently learning about gravitational wave astronomy to better understand the properties of black hole binaries in AGN disks 
-- 💞️ I’m looking to collaborate on the conditions and dynamics behind hierarchichal black hole mergers
+- 👀 I’m a PhD Student at the University of Connecticut
 - 📫 Reach me at andrea.mejia@uconn.edu
 
 <!---
